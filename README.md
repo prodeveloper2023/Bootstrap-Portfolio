@@ -16,10 +16,12 @@ A Portfolio site to showcase Work, Skills and experience using Html, Css and boo
 5. Navigate to <https://prodeveloper2023.github.io/Bootstrap-Portfolio/> and you will find that your new webpage has gone live!
 
 ## Usage 
-Here are 3 screenshot showing top to bottom of the page:
-    ![Top of page]()
-    ![bottom of page]()
-    ![middle of page]()
+Here are 5 screenshot showing top to bottom of the page:
+    ![Top of page](https://github.com/prodeveloper2023/Bootstrap-Portfolio/blob/main/images/Top-of-page.png)
+    ![work project1](https://github.com/prodeveloper2023/Bootstrap-Portfolio/blob/main/images/work-page-1.png)
+    ![work project2](https://github.com/prodeveloper2023/Bootstrap-Portfolio/blob/main/images/work-page-2.png)
+    ![work project3](https://github.com/prodeveloper2023/Bootstrap-Portfolio/blob/main/images/work-page-3.png)
+    ![About section, skills and contact](https://github.com/prodeveloper2023/Bootstrap-Portfolio/blob/main/images/about-me-and-contact-page.png)
 
 
 ## Credits
